@@ -1,0 +1,42 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: auto;
+    text-align: justify;
+}
+table {
+    border: 2;
+    border-radius: 20px;
+    background-color: rgb(204, 143, 121);
+    color: black;
+}
+nav {
+    border: 1;
+    background-color: rgb(91, 123, 126);
+    color: white;
+    border-radius: 10px;
+}
+img {
+    border-radius: 20px;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: rgb(190, 54, 54);
+}
+input {
+    border-radius: 10px;
+}
+form {
+    align-content: center;
+    width: 600px;
+    background-color: peachpuff;
+    border-radius: 10px;
+    color: black;
+}
+button {
+    border: none;
+    background-color: pink;
+    color: rgb(190, 54, 54);
+    border-radius: 10px;
+}
